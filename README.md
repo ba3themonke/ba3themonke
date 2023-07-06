@@ -1,30 +1,23 @@
-### Hi there :3
+### Heyo, I'm ba3!
+#### About Me
+  - he/him, Minor
+  - Making mods for Gorilla Tag
+  - Pretty new to modding Unity games
 
-I'm ba3, I like creating mods for the popular VR game "Gorilla Tag"! I've started the game a few years ago *(almost at release)* but only recently starting making mods for it!
+#### Knowledge
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)<br> 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-Although I'm new to modding Unity games I do have some past experience with other programming languages!!
-
-You can reach out to me on Discord at: "yewo_6", or join my [Discord Server](https://discord.gg/Gxsf7bCP4D)
-
-Big thanks to all of my friends *but specifically @sylnova*!!
-
-@sylnova has helped me make lots of mods as well as helped me get through tough times when nobody else was there for me. I recomend you check out their account as they make some super great mods!
-
-✨Thx for reading!!✨
-
-
-
-<!--
-**ba3themonke/ba3themonke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Socials
+<a href="https://www.youtube.com/@ba3themonke">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://discord.gg/Gxsf7bCP4D">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://github.com/ba3themonke/">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  
+#### Support
+Nothing yet!!
+  
