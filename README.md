@@ -6,9 +6,9 @@ Although I'm new to modding Unity games I do have some past experience with othe
 
 You can reach out to me on Discord at: "yewo_6", or join my [Discord Server](https://discord.gg/Gxsf7bCP4D)
 
-Big thanks to all of my friends *but specifically @ch7cken*!!
+Big thanks to all of my friends *but specifically @sylnova*!!
 
-@ch7cken has helped me make lots of mods as well as helped me get through tough times when nobody else was there for me. I recomend you check out their account as they make some super great mods!
+@sylnova has helped me make lots of mods as well as helped me get through tough times when nobody else was there for me. I recomend you check out their account as they make some super great mods!
 
 ✨Thx for reading!!✨
 
